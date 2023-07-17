@@ -1,6 +1,8 @@
 # :brain: Glioma Classification :dna:
 Glioma Classification with Molecular Features
 
+
+
 **--> PROJECT UNDER DEVELOPMENT**
 
 Gliomas are central nervous system tumors that originate from glial cells, the supportive cells responsible for maintaining and protecting neurons. LGG (Lower-Grade Glioma) and GBM (Glioblastoma Multiforme) are distinct grades of gliomas, representing different levels of malignancy in brain tumors. LGGs, classified as WHO grades I and II, exhibit less cellular atypia and slower growth compared to GBMs. LGGs are generally considered less aggressive, with a more favorable prognosis and longer overall survival rates. Treatment approaches for LGGs involve surgery, radiation therapy, and chemotherapy. In contrast, GBMs, categorized as WHO grade IV, are highly aggressive tumors characterized by rapid growth, extensive invasion into surrounding brain tissue, and a poor prognosis. GBMs require more intensive treatment, including surgery, radiation therapy, and targeted chemotherapy. Differentiating between LGG and GBM is crucial for determining appropriate treatment strategies and predicting patient outcomes.
