@@ -1,4 +1,4 @@
-<h1 align="center"># :brain: Glioma Classification :dna:</h1>
+# :brain: Glioma Classification :dna:
 <h1 align="center">Glioma Classification with Molecular Features</h1>
 
 **--> PROJECT UNDER DEVELOPMENT**
