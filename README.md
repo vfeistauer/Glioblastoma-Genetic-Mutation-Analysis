@@ -1,5 +1,5 @@
-# :brain: Glioblastoma Genetic Mutation Analysis :dna:
-
+<h1 align="center"># :brain: Glioma Classification :dna:
+Glioma Classification with Molecular Features</h1>
 
 **--> PROJECT UNDER DEVELOPMENT**
 
