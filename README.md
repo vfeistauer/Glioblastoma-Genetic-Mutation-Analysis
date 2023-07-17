@@ -1,5 +1,5 @@
-<h1 align="center"># :brain: Glioma Classification :dna:
-Glioma Classification with Molecular Features</h1>
+<h1 align="center"># :brain: Glioma Classification :dna:</h1>
+<h1 align="center">Glioma Classification with Molecular Features</h1>
 
 **--> PROJECT UNDER DEVELOPMENT**
 
